@@ -1,0 +1,6 @@
+{
+  "name": "SOL Cleaning Materials - Quotation & Price List Management System",
+  "description": "Internal enterprise management system for storing, organizing, searching, comparing, and managing supplier quotations, product databases, RFQs, and price histories for SOL Manpower Services Inc. / SOL Cleaning Materials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
